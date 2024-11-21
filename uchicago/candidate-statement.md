@@ -1,85 +1,120 @@
-# Outline
+---
+author: Noah Lasky-Nielson
+---
 
-## Criteria
+# Candidate Statement
 
-1.  I need to convince the admissions committee that I am qualified for their
-    program.
-2.  I am a good fit for the focus and goals of the program.
-3.  I need to exhibit a select group of skills and experiences that convey my
-    scientific accomplishments and achievements.
-4.  My experiences are concrete and quantitative.
+My experiences studying neuroscience have ingrained in me a strong desire to
+understand the brain through multimodal, interdisciplinary research. The
+opportunity to study neuroscience experimentally, theoretically, and
+philosophically brings me unparalleled excitement. I wish to pursue a PhD to
+study the transformation of sensory input into behavior; I further intend to
+nurture a tight-knit, collaborative research environment through communication
+and leadership. The neurobiology graduate program at the University of Chicago
+is an excellent fit for me to achieve these goals.
 
-## Experience
+In truth, it took some time for my interest in research to click. As a freshman
+at Brandeis University, I intended on studying mathematics and medicine. I
+enrolled in the requisite courses; I felt excited, but this excitement quickly
+gave way to ennui. I tried remedying this ennui by taking challenging courses
+in the sciences and humanities: computational neuroscience, philosophy of
+infinity, and anthropology of death to name a few. These courses provided some
+relief, but the feeling persisted.
 
-1.  What have I learned and accomplished?
-2.  Why does it matter?
-3.  How does it make me a good fit for the institution?
+In my sophomore year, I joined the laboratory of Dr. Stephen Van Hooser. The
+focus of our work at the time was to better understand the development of the
+mammalian visual cortex using optical and optogenetic techniques. In particular,
+we studied the development of neurons in the primary visual cortex (V1),
+focusing on tuning properties, in ferrets. I, along with Dr. Van Hooser and a
+graduate student, sought to better understand motion processing in the visual
+cortex, a mechanism historically less understood than spatial processing. My
+project, evolving into a senior research thesis, investigated whether neurons in
+ferret V1 were tuned for speed, a tuning property believed to arise in
+higher-order visual areas (HVAs).
 
-## Program
+I developed an algorithm for fitting a model to the firing rates of neurons
+recorded at various depths in V1 of anesthetized ferrets. This algorithm,
+integral to the project, provided the parameter used to assess whether a neuron
+was tuned for speed: the speed index. I enhanced the algorithm by implementing
+an _F_-test to verify that large speed index values, indicating tuning for
+speed, were not the result of an edge case. In developing the algorithm, I
+constructed code in a manner that prevented fits from ending up in local error
+minima and developed visualization techniques to ensure that fits were robust. I
+learned the importance of carefully monitoring the progression of data through a
+pipeline to check that the process produces quality output. I found that
+approximately one quarter of ferret V1 neurons were tuned for speed, one quarter
+exhibited no tuning for speed, and one half possessed tuning properties
+somewhere in between. In recognition of my work, I was awarded my bachelor's
+degree in neuroscience with high honors.
 
-The University of Chicago has a long tradition of innovative research in the
-neurosciences. This tradition is continued in the Graduate Program in
-Computational Neuroscience, which provides an interdepartmental and
-interdivisional focus on innovative multidisciplinary training in neuroscience.
+It was in the process of developing, refining, and writing my senior research
+thesis that the stars aligned: I wanted to pursue graduate school. In realizing
+my passion during the last few months of my undergraduate, I recognized that I
+possessed gaps in my scientific record. I therefore decided to gain further
+research experience to grow as a person and scientist and strengthen my
+research, communication, and leadership skills.
 
-1.  Which professors do I want to work with?
-2.  Do I have proposals for projects or research directions?
+I was fortunate enough to receive a postbaccalaureate research fellowship to
+conduct full-time research as part of the National Institutes of Health (NIH). I
+joined the laboratory of Dr. Bevil Conway in the Laboratory of Sensorimotor
+Research (LSR), where we study the pathways and computations involved in the
+transformation of visual input into behavior. In my time working alongside Dr.
+Conway and members of our group, I have been primarily involved in two projects.
 
-## Paragraphs
+The first project is interested in understanding the brain areas underlying the
+long-term association between color and shape, an association that provides the
+backbone for visual concepts. I worked alongside two postbaccalaureate
+researchers, a graduate student, and two non-human primates (NHPs) in answering
+this question with functional magnetic resonance imaging (fMRI) and neural
+decoding. As the project began prior to my arrival, the research goals had
+already been put in place for me, and I did my best to achieve these goals. I
+learned to work with NHPs, became more familiar with fMRI experiments and
+analysis, developed methods that improved decoding performance, and presented
+the project to a broad audience during an NIH-wide poster day. Over time, I grew
+frustrated with my role, feeling that there was little of scientific value I
+could contribute given the progression of the project, so I worked with Dr.
+Conway to begin an entirely new project.
 
-1.  I wish to pursue a PhD to study how the brain transforms input to output
-    focusing on organization and computation.
-2.  I did not want to go to graduate school until I completed my honors thesis;
-    I have an academic background spanning many fields.
-    1.  I learned of my passion to conduct research; I learned how to approach
-        questions from multiple perspectives in a rigorous manner.
-    2.  I am motivated to conduct research; I have atypical experience and
-        perspective.
-    3.  I approach neuroscience in a multidisciplinary fashion.
-3.  I joined the laboratory of Dr. Stephen Van Hooser at Brandeis University; I
-    studied the tuning of neurons in the primary visual cortex (V1).
-    1.  I learned to adapt computational techniques to analyze neural data; I
-        learned to construct code that prevented model fits from ending up in
-        local error minima; I learned to monitor the progression of data through
-        a pipeline to ensure the process produces quality output; I learned
-        technical writing.
-    2.  I can program; I possess computational skills others may not; I have
-        experience writing scientific papers.
-    3.  I have a strong computational background; I can improve processing
-        methods to answer scientific questions.
-4.  I joined the laboratory of Dr. Bevil Conway at the National Eye Institute
-    (NEI); I first worked on a project investigating the association between
-    color and shape; I currently lead a project assessing the functional
-    properties of retinotopic visual cortex.
-    1.  I learned to work alongside humans and animals; I learned how to conduct
-        experimental and computational research; I learned an experimental
-        method; I learned the importance of teamwork and interdivisional
-        communication; I learned the steps required to launch a project; I
-        learned to effectively communicate my scientific work.
-    2.  I have relevant experience; I can work with others; I can lead a
-        project; I can design experiments and analysis pipelines; I understand
-        the importance of collaboration; I understand the science behind my
-        work.
-    3.  I can do experimental and computational research; I actively seek
-        scientific collaborations; I can effectively push research forward; I
-        understand the requirements of conducting research full-time.
-5.  I have lead two journal clubs; I am involved in multiple committees,
-    organizing conferences, retreats, and journal clubs; I helped teach basic
-    programming to researchers.
-    1.  I learned to communicate science outside my immediate field; I learned
-        to lead group discussions; I learned to organize and communicate
-        promptly; I learned to communicate complex concepts succinctly.
-    2.  I have leadership experience; I possess organizational skills; I have
-        teaching experience.
-    3.  I will be an active member of the neuroscience community.
-6.  I believe UChicago is an excellent fit for me to pursue a PhD.
-    1.  I wish to work with David Freedman, Marlene Cohen, John Maunsell,
-        Matthew Kaufman, and Ramon Nogueira.
-    2.  I am interested in working with Marlene Cohen, David Freedman, or John
-        Maunsell to possibly study how subcortical structures interact with
-        visual areas while attending to stimuli or making a decision; I am
-        interested in working with John Maunsell and Matthew Kaufman to study
-        the interaction of visual and motor cortex work together in coordinating
-        behavior; I am interested in working alongside Ramon Nogueira to define
-        theoretical models of interactions across the brain to inform the
-        development of biologically-inspired neural networks.
+This new project seeks to elucidate the functional properties of human visual
+areas, a question less sought after compared to the organization of those areas,
+with fMRI. I work with a postdoctoral researcher focusing on retinotopic cortex:
+the collection of visual areas possessing a representation of visual information
+projected onto the retina. In the spirit of robust and reproducible results, I
+consulted with members outside my group concerning best practices in
+experimental design, data collection, and analysis. In studying retinotopic
+cortex, we utilize population receptive field mapping, drifting gratings varying
+in color, contrast, and spatial frequency, and a hypothesis-free feature
+extraction algorithm. I learned to recruit participants and presented the
+outline of the project during an NIH-wide seminar series. Excitingly, we
+recently began collecting data in participants and have many more lined up to
+start scanning.
+
+As a member of the LSR, I have the privilege of being in a collaborative,
+nurturing environment; the opportunity to connect and learn is only a few steps
+away. Inspired by this experience, I wish to foster a research environment where
+professors and students can connect, collaborate, and learn from one another,
+regardless of discipline or research interest. To this end, I am involved in
+leadership, volunteering, and teaching efforts. As a representative for my group
+in the LSR, I work with researchers of varying expertise to improve member
+wellbeing by introducing, refining, and emphasizing available resources and
+opportunities. In addition, my experiences teaching neuroscience and programming
+motivate me to pursue teaching and mentorship opportunities in graduate school.
+
+The neurobiology graduate program at the University of Chicago provides exciting
+opportunities for me to both study my scientific questions of interest and
+immerse myself in a tight-knit, interdisciplinary community. The program's
+excellent scientific work and community will lay a strong foundation for me to
+pursue a professorship at an academic institution in the future. I am
+particularly interested in working with Drs. David Freedman, Marlene Cohen, John
+Maunsell, and Matthew Kaufman. Their work, independently, present thrilling
+opportunities to study the interplay between sensory input and behavior, be it
+decision making, categorization, attention, or the generation of movement. My
+time spent talking to professors and current graduate students has only
+reinforced my interest in working in those groups. In addition, the large number
+of journal clubs will allow me to foster relationships beyond my groups of
+interest. I plan to capitalize on the overlap between the neurobiology and
+computational neuroscience research to refine my understanding of the brain and
+strengthen my quantitative skills. It is these factors, in combination with my
+research experience and skills, that will enable me to thrive at the University
+of Chicago. As my top choice, it would be an honor to be part of this year's
+entering class.
