@@ -102,19 +102,19 @@ motivate me to pursue teaching and mentorship opportunities in graduate school.
 
 The neurobiology graduate program at the University of Chicago provides exciting
 opportunities for me to both study my scientific questions of interest and
-immerse myself in a tight-knit, interdisciplinary community. The program's
-excellent scientific work and community will lay a strong foundation for me to
-pursue a professorship at an academic institution in the future. I am
-particularly interested in working with Drs. David Freedman, Marlene Cohen, John
-Maunsell, and Matthew Kaufman. Their work, independently, present thrilling
-opportunities to study the interplay between sensory input and behavior, be it
-decision making, categorization, attention, or the generation of movement. My
-time spent talking to professors and current graduate students has only
-reinforced my interest in working in those groups. In addition, the large number
-of journal clubs will allow me to foster relationships beyond my groups of
-interest. I plan to capitalize on the overlap between the neurobiology and
-computational neuroscience research to refine my understanding of the brain and
-strengthen my quantitative skills. It is these factors, in combination with my
-research experience and skills, that will enable me to thrive at the University
-of Chicago. As my top choice, it would be an honor to be part of this year's
+immerse myself in a tight-knit, collaborative community. The program's excellent
+scientific work and community will lay a strong foundation for me to pursue a
+professorship at an academic institution in the future. I am particularly
+interested in working with Drs. David Freedman, Marlene Cohen, John Maunsell,
+and Matthew Kaufman. Their work, independently, present thrilling opportunities
+to study the interplay between sensory input and behavior, be it decision
+making, categorization, attention, or the generation of movement. My time spent
+talking to professors and current graduate students has only reinforced my
+interest in working in those groups. In addition, the large number of journal
+clubs will allow me to foster relationships beyond my groups of interest. I plan
+to capitalize on the overlap between the neurobiology and computational
+neuroscience research to strengthen my understanding of the brain and
+quantitative skills. It is these factors, in combination with my research
+experience and skills, that will enable me to thrive at the University of
+Chicago. As my top choice, it would be an honor to be part of this year's
 entering class.
